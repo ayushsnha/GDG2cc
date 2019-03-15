@@ -1,0 +1,11 @@
+.jumbotron{
+    opacity: 0.8;
+    padding-top: 25px;
+    background-color: #eacece;
+}
+.a{
+    padding-left: 15px;
+}
+#map{
+    border: solid orange 4px;
+}
