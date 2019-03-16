@@ -10,7 +10,7 @@ packages used:
 #Map API:Leaflet(https://leafletjs.com/index.html)    
     
 #Implementation:https://iss-info.herokuapp.com/
-    (Do allow "blocked scripts from external source" otherwise map won't appear)
+    
 ![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture.PNG)
 
 ![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture1.PNG)
