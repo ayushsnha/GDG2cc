@@ -19,7 +19,7 @@ xmlhttp.onreadystatechange = function() {
                 minZoom: 6
             })
             .setView([cord.iss_position.latitude, cord.iss_position.longitude], -100);
-            var marker = L.marker([cord.iss_position.latitude, cord.iss_position.longitude]).bindPopup(`lat:${cord.iss_position.latitude},long:${cord.iss_position.longitude}`).addTo(map);
+            var marker = L.marker([cord.iss_position.latitude, cord.iss_position.longitude]).bindPopup(`(${cord.iss_position.latitude},${cord.iss_position.longitude})`).addTo(map);
             
             setTimeout(function () { map.invalidateSize() }, 800);        
 

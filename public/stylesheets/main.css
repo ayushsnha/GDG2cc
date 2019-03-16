@@ -1,7 +1,32 @@
 .jumbotron{
-    opacity: 0.8;
+    
     padding-top: 25px;
-    background-color: #eacece;
+    /* background-color: white; */
+    background-image: url('https://i.ibb.co/LQv3qKb/kisscc0-astronaut-dr.png');
+    background-repeat: no-repeat;
+    background-size: 400px 360px;
+   background-position-x: 90%;
+   background-color: whitesmoke;
+   opacity: 0.93;
+}
+
+
+.container{
+    margin-top: 80px;
+}
+footer{
+    color: white;
+}
+.page-footer{
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
 }
 .a{
     padding-left: 15px;
@@ -9,3 +34,12 @@
 #map{
     border: solid orange 4px;
 }
+body{
+    font-family: 'Sniglet', cursive;
+    background-image: url('https://i.ibb.co/b6Yb11t/15edddcf14f696bf8727caaf809e39ac.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size:auto; 
+}
+
+/* https://ibb.co/hXCSn0h  https://ibb.co/WH7VnnC */
