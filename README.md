@@ -12,3 +12,6 @@ packages used:
 #Implementation:https://iss-info.herokuapp.com/
     (Do allow "blocked scripts from external source" otherwise map won't appear)
 ![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture.PNG)
+
+![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture1.PNG)
+(Do allow "load scripts from external source" otherwise map won't appear)
