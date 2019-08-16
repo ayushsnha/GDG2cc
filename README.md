@@ -18,5 +18,5 @@ packages used:
  Commits Tab | PRs Tab |
 | --- | --- |
 | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c1.PNG"/> | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c3.PNG" /> |
-| Panels Expanded  |
+ Panels Expanded  
 | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c2.PNG"/> | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c4.PNG" /> |
