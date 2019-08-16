@@ -16,5 +16,5 @@ packages used:
 <img src="https://github.com/ayushsnha/hellow-world/blob/master/c1.PNG" align="center"/>
 
  Commits Tab | PRs Tab |
-| --- | --- | --- |
-| <img src="https://github.com/ayushsnha/hellow-world/blob/master/c1.PNG/> | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c3.PNG" /> |
+| --- | --- |
+| <img src="https://github.com/ayushsnha/hellow-world/blob/master/c1.PNG"/> | <img src="https://github.com/ayushsnha/hellow-world/blob/master/c3.PNG" /> |
