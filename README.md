@@ -13,5 +13,5 @@ packages used:
     
 ![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture.PNG)
 
-![alt text](https://github.com/ayushsnha/GDG2cc/blob/master/images/Capture1.PNG)
-(Do allow "load scripts from external source" otherwise map won't appear)
+<img src="https://github.com/ayushsnha/hellow-world/blob/master/c1.PNG" align="center"/>
+
